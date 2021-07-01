@@ -4,15 +4,15 @@
   [![license](https://img.shields.io/badge/license-Apache-blue)](https://shields.io)
   ========================
   ## Table of Contents 
-  - [Description](#desc)
+  - [Description](#description)
 
-  - [Installation](#reqs)
+  - [Installation](#installation)
 
   - [Usage](#usage)
 
-  - [License](#License)
+  - [License](#license)
 
-  - [Additional Info](#additional-info)
+  - [Additional Info](#contact-info)
 
 
   ## Description:
