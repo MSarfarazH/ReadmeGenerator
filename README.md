@@ -1,52 +1,55 @@
-# Generator
-  
+# Note Maker App
+ 
   ## Licensing:
-  [![license](https://img.shields.io/badge/license-Apache-blue)](https://shields.io)
+  [![license](https://img.shields.io/badge/license-None-blue)](https://shields.io)
   ========================
   ## Table of Contents 
-  - [Description](#description)
+  - [Description](#desc)
 
-  - [Installation](#installation)
+  - [Installation](#reqs)
 
   - [Usage](#usage)
 
-  - [License](#license)
+  - [License](#License)
 
-  - [Additional Info](#contact-info)
+  - [Additional Info](#additional-info)
 
 
   ## Description:
-  _________________________
+  Lets a user make notes and keep track of their tasks
 
-  Readme creator
+  _________________________
 
   
 
 
   ## Installation:
-  _________________________
+  Express.js
 
-  JS, Requierer NPM
+  _________________________
 
   
 
 
   ## Usage:
+  To make notes
+
   _________________________
 
-  To auto generate ReadMe
-
   
+
 
   ## License:
-  _________________________
+  None
 
-  Apache
+  _________________________
 
   
 
-  ## Contact Info:
- ______________________________
 
-  - Github: [msarfarazh](https://github.com/msarfarazh)
-  - Email: m.sarfaraz.h@gmail.com
+  ## Contact Info:
+   - Github: [msarfarazh](https://github.com/msarfarazh)
+  - Email: m.s.hussain@outlook.com
+
+  ______________________________
+

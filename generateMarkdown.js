@@ -26,27 +26,30 @@ function generateMarkdown(data) {
   - [Additional Info](#additional-info)\n
 
   ## Description:
-  _________________________\n
   ${data.desc}\n
+  _________________________\n
   \n
 
   ## Installation:
-  _________________________\n
   ${data.reqs}\n
+  _________________________\n
   \n
 
   ## Usage:
-  _________________________\n
   ${data.usage}\n
-  \n
-  ## License:
   _________________________\n
-  ${data.license}\n
   \n
+
+  ## License:
+  ${data.license}\n
+  _________________________\n
+  \n
+
   ## Contact Info:
- ______________________________\n
-  - Github: [${data.github}](https://github.com/${data.github})
-  - Email: ${data.email}
+   - Github: [${data.github}](https://github.com/${data.github})
+  - Email: ${data.email}\n
+  ______________________________
+
 `;
 }
 
